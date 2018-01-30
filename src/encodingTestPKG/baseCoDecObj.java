@@ -1,7 +1,7 @@
 package encodingTestPKG;
 
 import java.nio.charset.StandardCharsets;
-
+//test
 public abstract class baseCoDecObj {
 	public int fElemSize;		//size of element in encoded array in bits/components
 	protected int numBitElems;			//# of elements to be encoded
